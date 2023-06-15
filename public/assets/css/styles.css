@@ -1,0 +1,54 @@
+#home {
+  height: 100vh;
+  background: #ebfaea;
+}
+#partnership {
+  background: #ebfaea;
+}
+#download {
+  background: linear-gradient(180deg, white, #ebfaea);
+}
+.btn-green {
+  background: #3abc52;
+  color: white;
+  border-radius: 10px;
+}
+.navbar {
+  border: 1px solid #e6e9ef;
+  border-radius: 20px;
+  top: 5%;
+  left: 5%;
+  right: 5%;
+  width: 90%;
+  position: absolute;
+  z-index: 99;
+}
+.nav-item > a {
+  color: #0d2344 !important;
+}
+.nav-link:hover {
+  color: white !important;
+  background: #3abc52;
+}
+.bg-green {
+  background: #3abc52;
+}
+.border-features {
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+}
+#features {
+  background: linear-gradient(#ebfaea 50%, white 50%);
+  background-position: 50% top;
+  background-repeat: no-repeat;
+}
+.large-title {
+  font-size: 48px;
+}
+.subtitle {
+  font-size: 16px;
+}
+.character-limit {
+  text-overflow: ellipsis;
+  max-width: 50%;
+}
