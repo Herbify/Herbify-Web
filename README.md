@@ -1,1 +1,5 @@
-# Herbify-Web
+# Herbify Web
+
+###
+Landing page and dashboard administrator for Herbify 
+###
